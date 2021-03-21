@@ -1,0 +1,10 @@
+{
+  "name": "InterView",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "arafat.ruet.bd <arafat.ruet.bd@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^8.0.0"
+  }
+}
